@@ -1,0 +1,105 @@
+{
+    "id": 805,
+    "fixed": {
+        "StrIdx": 0,
+        "ModIdx": 0,
+        "NCell": 16,
+        "SoC": 894,
+        "SoH": 999,
+        "V": 513,
+        "CellVMax": 34,
+        "CellVMaxCell": 3,
+        "CellVMin": 31,
+        "CellVMinCell": 14,
+        "CellVAvg": 32,
+        "CellTmpMax": 281,
+        "CellTmpMaxCell": 7,
+        "CellTmpMin": 265,
+        "CellTmpMinCell": 3,
+        "CellTmpAvg": 274,
+        "NCellBal": 0,
+        "SN": 2022050009
+    },
+    "repeating": {
+        "0": {
+            "CellV": 321,
+            "CellTmp": 283,
+            "CellSt": 0
+        },
+        "1": {
+            "CellV": 321,
+            "CellTmp": 283,
+            "CellSt": 0
+        },
+        "2": {
+            "CellV": 321,
+            "CellTmp": 283,
+            "CellSt": 0
+        },
+        "3": {
+            "CellV": 321,
+            "CellTmp": 283,
+            "CellSt": 0
+        },
+        "4": {
+            "CellV": 321,
+            "CellTmp": 283,
+            "CellSt": 0
+        },
+        "5": {
+            "CellV": 321,
+            "CellTmp": 283,
+            "CellSt": 0
+        },
+        "6": {
+            "CellV": 321,
+            "CellTmp": 283,
+            "CellSt": 0
+        },
+        "7": {
+            "CellV": 321,
+            "CellTmp": 283,
+            "CellSt": 0
+        },
+        "8": {
+            "CellV": 321,
+            "CellTmp": 283,
+            "CellSt": 0
+        },
+        "9": {
+            "CellV": 321,
+            "CellTmp": 283,
+            "CellSt": 0
+        },
+        "10": {
+            "CellV": 321,
+            "CellTmp": 283,
+            "CellSt": 0
+        },
+        "11": {
+            "CellV": 321,
+            "CellTmp": 283,
+            "CellSt": 0
+        },
+        "12": {
+            "CellV": 321,
+            "CellTmp": 283,
+            "CellSt": 0
+        },
+        "13": {
+            "CellV": 321,
+            "CellTmp": 283,
+            "CellSt": 0
+        },
+        "14": {
+            "CellV": 321,
+            "CellTmp": 283,
+            "CellSt": 0
+        },
+        "15": {
+            "CellV": 321,
+            "CellTmp": 283,
+            "CellSt": 0
+        }
+    }
+}

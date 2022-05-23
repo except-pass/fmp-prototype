@@ -1,0 +1,11 @@
+﻿Name,Label,Description,Unit
+SoC,Module SoC,"Module state of charge, expressed as a percentage.",%
+SoH,Module SoH,"Module state of health, expressed as a percentage.",%
+V,Module Voltage,Voltage of the module.,V
+CellVMax,Max Cell Voltage,Maximum voltage for all cells in the module.,V
+CellVMaxCell,Max Cell Voltage Cell,Cell with the maximum voltage.,
+CellVMin,Min Cell Voltage,Minimum voltage for all cells in the module.,V
+CellVMinCell,Min Cell Voltage Cell,Cell with the minimum voltage.
+CellV,Cell Voltage,Voltage of Individual Cells,V
+CellT,Cell Temperature,Temperature of Individual Cells,C
+CellSt,Cell Status, Is the cell balancing?,

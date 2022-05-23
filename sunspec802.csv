@@ -1,0 +1,6 @@
+﻿Name,Label,Description,Unit
+SoC,Module SoC,"Module state of charge, expressed as a percentage.",%
+SoH,Module SoH,"Module state of health, expressed as a percentage.",%
+V,Module Voltage,Voltage of the module.,V
+A,Total DC Current, Total DC current flowing to/from the battery bank.,A
+W,Total Power,Total power flowing to/from the battery bank.,W
